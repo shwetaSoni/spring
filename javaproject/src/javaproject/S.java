@@ -11,13 +11,10 @@ public class S {
 		System.out.println("hii");
 		System.out.println("hii");
 		System.out.println("good");
-		
-		
-		
-		
-		
-	
-		
+
+
+		System.out.println("div");
+
 
 	}
 
