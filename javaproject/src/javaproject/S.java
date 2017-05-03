@@ -10,7 +10,7 @@ public class S {
 		// TODO Auto-generated method stub
 		System.out.println("hii");
 		System.out.println("hii");
-		System.out.println();
+		System.out.println("good");
 
 	}
 
